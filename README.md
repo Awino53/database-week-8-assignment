@@ -8,3 +8,4 @@ This project implements a relational database for an **Inventory Tracking System
 ### Step 1: Clone the repository
 Clone the repository to your local machine by running the following command:
 ```bash
+git clone : https://github.com/Awino53/database-week-8-assignment.git
